@@ -2,12 +2,9 @@
     <div>
         <el-card class="box-card">
             <div class="header">
-                <a href="https://github.com/SubConv/SubConv">
+                <a href="https://222260.xyz">
                 <span>
-                    SubConv
-                </span>
-                <span>
-                    <i class="fa-brands fa-github"></i>
+                    魔法订阅转换
                 </span>
                 </a>
             </div>
@@ -48,9 +45,7 @@
                     API 后端项目:
                 </span>
                 <span>
-                    <a href="https://github.com/SubConv/SubConv" target="_blank">
                         SubConv
-                    </a>
                 </span>
             </div>
             <div>
@@ -59,7 +54,7 @@
                     UI designed by
                 </span>
                 <span>
-                    <a href="https://github.com/musanico" target="_blank">@Musanico</a>
+			@Musanico
                 </span>
             </div>
         </div>
